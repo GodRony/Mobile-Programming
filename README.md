@@ -1,14 +1,14 @@
 # Mobile-Programming 
 
 
-### Android Studio를 통해서 앱을 만들어보았습니다.
+## Android Studio를 통해서 앱을 만들어보았습니다.
 
 
 <img width="507" height="216" alt="image" src="https://github.com/user-attachments/assets/75b037d7-be72-47bb-b91b-a4a8e10034a8" />
 
 
 
-#### 목적 
+### 목적 
 
 다양한 레시피를 간편하게 제공하여 요리고민 해결
 
@@ -19,7 +19,18 @@
 레시피를 저장하고 관리할 수 있는 기능 제공
 
 
-#### 기능 
+### 디렉토리 구조
+
+- FinalProject
+- ch13
+- ch16
+- ch6
+- ch7_
+- ch8
+- ch9
+
+
+### 기능 
 
 홈 화면 : 추천 레시피와 검색 기능 제공
 
@@ -35,7 +46,11 @@
 <img width="560" height="398" alt="image" src="https://github.com/user-attachments/assets/5d80ae59-9bc4-46b0-9492-3e25206f9db1" />
 
 
-#### 주요 기능 소개 및 사용 가이드 
+### Final Project 주요 기능 소개 및 사용 가이드 
+
+
+
+*코드는 FinalProject 폴더 안에 있습니다.*
 
 
 <img width="584" height="594" alt="image" src="https://github.com/user-attachments/assets/e405304f-342c-4a15-8a77-1c90aec5736a" />
